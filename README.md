@@ -22,7 +22,7 @@ Mais do que decorar comandos, estou aprendendo a pensar como um programador Ruby
 
 💬 Códigos comentados e explicações didáticas
 
-#🎯 Objetivo
+# 🎯 Objetivo
 
 Aprender Ruby de forma profunda e clara, com foco em escrever código limpo, legível e funcional. Este repositório é o início da minha jornada rumo ao uso de Ruby em projetos reais, incluindo o universo do desenvolvimento web com Ruby on Rails no futuro.
 
